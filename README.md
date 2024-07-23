@@ -1,10 +1,10 @@
-# Awesome TypeScript :mortar_board:
+# :star2: Awesome TypeScript :mortar_board:
 
-![](https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp&w=256)
+![Typescript Logo](media/ts-icon.webp)
 
-> ¡Bienvenido al repositorio de Learn TypeScript! Este repositorio está diseñado para proporcionarte una guía completa y organizada para aprender TypeScript de manera divertida y eficiente.
+> ¡Bienvenido al repositorio Awesome TypeScript! Este repositorio está diseñado para proporcionarte una guía completa y organizada para aprender TypeScript de manera divertida y eficiente.
 
-## 📚 Tabla de Contenidos
+## :books: Tabla de Contenidos
 
 - [Introducción](#introducción)
 - [Instalación](#instalación)
@@ -83,9 +83,7 @@ Para utilizar los ejemplos y proyectos de este repositorio, necesitarás tener N
 4. Sube tus cambios (`git push origin feature-nueva-funcionalidad`).
 5. Abre un pull request.
 
-## 📜 Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para obtener más detalles.
 
 ## 📬 Contacto
 
@@ -95,6 +93,10 @@ Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto:
 - **Correo:** tuemail@example.com
 - **GitHub:** [tu-usuario](https://github.com/tu-usuario)
 
+## :scroll: License
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para obtener más detalles.
+
 ---
 
-> ¡Gracias por visitar y contribuir a Learn TypeScript! Juntos, podemos hacer que el aprendizaje de TypeScript sea accesible y divertido para todos.
+> ¡Gracias por visitar Awesome TypeScript!
