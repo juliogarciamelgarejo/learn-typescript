@@ -1,6 +1,8 @@
-# :star2: Awesome TypeScript
+# :star2: Awesome TypeScript :mortar_board:
 
-### :mortar_board: ¡Bienvenido al repositorio Awesome TypeScript! Este repositorio está diseñado para proporcionarte una guía completa y organizada para aprender TypeScript de manera divertida y eficiente.
+### Welcome to my personal Awesome TypeScript repository! I designed this resource to provide in a structured way all the information I found on my journey to learn TypeScript from scratch. I hope it helps you too.
+
+
 
 ![Typescript Logo](media/ts-icon.webp)
 
