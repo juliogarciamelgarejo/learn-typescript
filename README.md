@@ -1,4 +1,4 @@
-# :star2: Awesome TypeScript :mortar_board:
+# :star2: Awesome TypeScript :star2:
 
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
@@ -11,17 +11,37 @@
 - [Installation](#installation)
 - [Learning Resources](#learning-resources)
   - [Official Documentation](#official-documentation)
-  - [Online Tutorials](#online-tutorials)
-  - [Books and Articles](#books-and-articles)
-  - [Interactive Courses](#interactive-courses)
-  - [Examples and Projects](#examples-and-projects)
+  - [Tutorials](#tutorials)
+  - [Tools](#tools)
+  - [E-Books](#books)
+  - [Articles](#articles)
+  - [Courses](#courses)
+  - [Projects](#projects)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
+
+Tutorials
+Discovery
+Articles
+Newsletters
+Videos
+Books
+Blogs
+Courses
+Cheatsheets
+Tools
+Community
+Miscellaneous
+
 ## :round_pushpin: Introduction
 
 Welcome to my personal Awesome TypeScript repository! I designed this resource to provide in a structured way all the information I found on my journey to learn TypeScript from scratch. I hope it helps you too.
+
+TypeScript is a free and open-source high-level programming language developed by Microsoft that adds static typing with optional type annotations to JavaScript. It is designed for the development of large applications and transpiles to JavaScript. Because TypeScript is a superset of JavaScript, all JavaScript programs are syntactically valid TypeScript, but they can fail to type-check for safety reasons.
+
+
 
 ## :hammer_and_wrench: Installation
 
@@ -99,11 +119,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt)
 
 ---
 
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. ¡Gracias!
-
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
-
-## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
+## Hola, mi nombre es Julio Cesar Garcia.
 
 ### Freelance full-stack iOS & Android engineer
 
@@ -121,5 +137,10 @@ Soy ingeniero de software desde 2010. Desde 2018 combino mi trabajo desarrolland
 ### En mi perfil de GitHub tienes más información
 
 [![Github Profile](https://img.shields.io/badge/GitHub-juliogarciamelgarejo-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/juliogarciamelgarejo)
+
+#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. ¡Gracias!
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+
 
 > ¡Gracias por visitar Awesome TypeScript!
