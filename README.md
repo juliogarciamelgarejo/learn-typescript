@@ -1,6 +1,6 @@
 # Awesome TypeScript :mortar_board:
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png)
 
 > ¡Bienvenido al repositorio de Learn TypeScript! Este repositorio está diseñado para proporcionarte una guía completa y organizada para aprender TypeScript de manera divertida y eficiente.
 
