@@ -1,6 +1,6 @@
 # :star2: Awesome TypeScript :mortar_board:
 
-### Welcome to my personal Awesome TypeScript repository! I designed this resource to provide in a structured way all the information I found on my journey to learn TypeScript from scratch. I hope it helps you too.
+> Welcome to my personal Awesome TypeScript repository! I designed this resource to provide in a structured way all the information I found on my journey to learn TypeScript from scratch. I hope it helps you too.
 
 
 
