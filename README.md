@@ -3,31 +3,27 @@
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
 
-### Welcome to my personal Awesome TypeScript repository! I designed this resource to provide in a structured way all the information I found on my journey to learn TypeScript from scratch. I hope it helps you too.
-
-
 ![Typescript Logo](media/ts-icon.webp)
 
+## :books: Table of Contents
 
-## :books: Tabla de Contenidos
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Learning Resources](#learning-resources)
+  - [Official Documentation](#official-documentation)
+  - [Online Tutorials](#online-tutorials)
+  - [Books and Articles](#books-and-articles)
+  - [Interactive Courses](#interactive-courses)
+  - [Examples and Projects](#examples-and-projects)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-- [Introducción](#introducción)
-- [Instalación](#instalación)
-- [Recursos de Aprendizaje](#recursos-de-aprendizaje)
-  - [Documentación Oficial](#documentación-oficial)
-  - [Tutoriales en Línea](#tutoriales-en-línea)
-  - [Libros y Artículos](#libros-y-artículos)
-  - [Cursos Interactivos](#cursos-interactivos)
-  - [Ejemplos y Proyectos](#ejemplos-y-proyectos)
-- [Contribuir](#contribuir)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
+## :round_pushpin: Introduction
 
-## 🌟 Introducción
+Welcome to my personal Awesome TypeScript repository! I designed this resource to provide in a structured way all the information I found on my journey to learn TypeScript from scratch. I hope it helps you too.
 
-Este repositorio está diseñado para ayudarte a aprender TypeScript desde cero. TypeScript es un superset de JavaScript que añade tipado estático opcional, mejorando la calidad del código y la experiencia de desarrollo. ¡Vamos a sumergirnos en el mundo de TypeScript!
-
-## 🛠 Instalación
+## :hammer_and_wrench: Installation
 
 Para utilizar los ejemplos y proyectos de este repositorio, necesitarás tener Node.js y npm (Node Package Manager) instalados en tu máquina. Puedes descargarlos desde [Node.js](https://nodejs.org/).
 
@@ -43,8 +39,7 @@ Para utilizar los ejemplos y proyectos de este repositorio, necesitarás tener N
     ```bash
     npm install
     ```
-
-## 📘 Recursos de Aprendizaje
+## Learning Resources
 
 ### Documentación Oficial
 
@@ -100,8 +95,31 @@ Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto:
 
 ## :scroll: License
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para obtener más detalles.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file for details.
 
 ---
+
+#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. ¡Gracias!
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+
+## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
+
+### Freelance full-stack iOS & Android engineer
+
+[![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev)
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
+[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
+![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+
+Soy ingeniero de software desde 2010. Desde 2018 combino mi trabajo desarrollando Apps con la creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
+
+### En mi perfil de GitHub tienes más información
+
+[![Github Profile](https://img.shields.io/badge/GitHub-juliogarciamelgarejo-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/juliogarciamelgarejo)
 
 > ¡Gracias por visitar Awesome TypeScript!
