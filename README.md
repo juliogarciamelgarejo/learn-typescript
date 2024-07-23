@@ -1,10 +1,9 @@
 # :star2: Awesome TypeScript :mortar_board:
 
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
 
-### :nerd_face: Welcome to my personal Awesome TypeScript repository! I designed this resource to provide in a structured way all the information I found on my journey to learn TypeScript from scratch. I hope it helps you too.
+### Welcome to my personal Awesome TypeScript repository! I designed this resource to provide in a structured way all the information I found on my journey to learn TypeScript from scratch. I hope it helps you too.
 
 
 ![Typescript Logo](media/ts-icon.webp)
