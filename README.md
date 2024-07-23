@@ -1,8 +1,6 @@
 # :star2: Awesome TypeScript :mortar_board:
 
-> Welcome to my personal Awesome TypeScript repository! I designed this resource to provide in a structured way all the information I found on my journey to learn TypeScript from scratch. 
->
-> :point_up: :nerd_face: I hope it helps you too.
+> :point_up: :nerd_face: Welcome to my personal Awesome TypeScript repository! I designed this resource to provide in a structured way all the information I found on my journey to learn TypeScript from scratch. I hope it helps you too.
 
 
 ![Typescript Logo](media/ts-icon.webp)
