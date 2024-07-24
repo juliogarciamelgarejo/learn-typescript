@@ -2,6 +2,7 @@
 
 [![Typescript Version](https://img.shields.io/npm/v/typescript?color=green&labelColor=black&label=Version)](https://www.npmjs.com/package/typescript)
 [![Typescript Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.typescriptlang.org%2F&up_message=Official&label=Website&labelColor=black&up_color=red)](https://www.typescriptlang.org/)
+[![Typescript GitHub](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Ftypescript%2F&up_message=Typescript&up_color=blue&labelColor=black&label=GitHub)](https://github.com/microsoft/typescript/)
 [![Typescript Downloads](https://img.shields.io/npm/dw/typescript.svg?color=FFD300&labelColor=black&label=Downloads)](https://www.npmjs.com/package/typescript)
 
 ![Typescript Banner](/media/ts-banner.png)
@@ -20,12 +21,11 @@
   - [Articles](#articles)
   - [Courses](#courses)
   - [Projects](#projects)
-  - Discovery
-  - Newsletters
-  - Videos
-  - Cheatsheets
-  - Community
-  - Miscellaneous
+  - [Discovery]()
+  - [Newsletters]()
+  - [Cheatsheets]()
+  - [Miscellaneous]()
+  - [Community]()
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -90,6 +90,7 @@ typescript --version
 - [🛠 TypeScript Playground](https://www.typescriptlang.org/play)
 - [💻 RealWorld Example App - TypeScript](https://github.com/gothinkster/react-redux-realworld-example-app)
 
+<a id="Contributing"></a>
 ## 🤝 Contribuir
 
 ¡Las contribuciones son bienvenidas! Si tienes alguna idea o mejora, por favor abre un issue o crea un pull request.
@@ -100,16 +101,7 @@ typescript --version
 4. Sube tus cambios (`git push origin feature-nueva-funcionalidad`).
 5. Abre un pull request.
 
-
-
-## 📬 Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto:
-
-- **Nombre:** Tu Nombre
-- **Correo:** tuemail@example.com
-- **GitHub:** [tu-usuario](https://github.com/tu-usuario)
-
+<a id="License"></a>
 ## :scroll: License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file for details.
@@ -138,6 +130,10 @@ Soy ingeniero de software desde 2010. Desde 2018 combino mi trabajo desarrolland
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. ¡Gracias!
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/typescript)
+
+[![GitHub stars](https://img.shields.io/github/stars/microsoft/typescript?style=social)](https://github.com/microsoft/typescript/stargazers)
 
 
 > ¡Gracias por visitar Awesome TypeScript!
