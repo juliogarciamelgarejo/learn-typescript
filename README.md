@@ -1,18 +1,18 @@
 # :star2: Awesome TypeScript :mortar_board:
 
 [![Typescript Version](https://img.shields.io/npm/v/typescript?color=green&labelColor=black&label=Version)](https://www.npmjs.com/package/typescript)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.typescriptlang.org%2F&up_message=Official&label=Website&labelColor=black&up_color=red)](https://www.typescriptlang.org/)
+[![Typescript Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.typescriptlang.org%2F&up_message=Official&label=Website&labelColor=black&up_color=red)](https://www.typescriptlang.org/)
 [![Typescript Downloads](https://img.shields.io/npm/dw/typescript.svg?color=FFD300&labelColor=black&label=Downloads)](https://www.npmjs.com/package/typescript)
-
-> Welcome to Awesome TypeScript! I created this resource to provide all the information I found to learn TypeScript from scratch in a structured way.
 
 ![Typescript Banner](/media/ts-banner.png)
 
+> Welcome to Awesome TypeScript! I created this resource to provide all the information I found to learn TypeScript from scratch in a structured way.
+
 ## :books: Table of Contents
 
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Learning Resources](#learning-resources)
+- [Introduction](#-introduction)
+- [Installation](#-installation)
+- [Learning Resources](#-learning-resources)
   - [Official Documentation](#official-documentation)
   - [Tutorials](#tutorials)
   - [Tools](#tools)
@@ -53,7 +53,7 @@ To check the installation:
 typescript --version
 ```
 
-## Learning Resources
+## :books: Learning Resources
 
 ### Documentación Oficial
 
