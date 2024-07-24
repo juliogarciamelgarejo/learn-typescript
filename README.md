@@ -1,9 +1,9 @@
-# :star2: Awesome TypeScript :star2:
+# :star2: Awesome TypeScript :mortar_board:
 
-[![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
+[![Typescript Version](https://img.shields.io/npm/v/typescript)](https://www.npmjs.com/package/typescript)
+[![Typescript Website](https://img.shields.io/badge/TypeScript-Website-blue?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black)](https://www.typescriptlang.org/)
 
-![Typescript Logo](/media/ts-lettermark-blue.png)
+![Typescript Banner](/media/ts-banner.png)
 
 ## :books: Table of Contents
 
@@ -17,23 +17,14 @@
   - [Articles](#articles)
   - [Courses](#courses)
   - [Projects](#projects)
+  - Discovery
+  - Newsletters
+  - Videos
+  - Cheatsheets
+  - Community
+  - Miscellaneous
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
-
-
-Tutorials
-Discovery
-Articles
-Newsletters
-Videos
-Books
-Blogs
-Courses
-Cheatsheets
-Tools
-Community
-Miscellaneous
 
 ## :round_pushpin: Introduction
 
