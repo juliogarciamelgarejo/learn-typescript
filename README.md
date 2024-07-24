@@ -1,8 +1,8 @@
 # :star2: Awesome TypeScript :mortar_board:
 
-[![Typescript Version](https://img.shields.io/npm/v/typescript?color=green&labelColor=black)](https://www.npmjs.com/package/typescript)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.typescriptlang.org%2F&up_message=official&label=website&labelColor=black&up_color=red)](https://www.typescriptlang.org/)
-[![Typescript Downloads](https://img.shields.io/npm/dw/typescript.svg?color=FFD300&labelColor=black)](https://www.npmjs.com/package/typescript)
+[![Typescript Version](https://img.shields.io/npm/v/typescript?color=green&labelColor=black&label=Version)](https://www.npmjs.com/package/typescript)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.typescriptlang.org%2F&up_message=Official&label=Website&labelColor=black&up_color=red)](https://www.typescriptlang.org/)
+[![Typescript Downloads](https://img.shields.io/npm/dw/typescript.svg?color=FFD300&labelColor=black&label=Downloads)](https://www.npmjs.com/package/typescript)
 
 
 ![Typescript Banner](/media/ts-banner.png)
