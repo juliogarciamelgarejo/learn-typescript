@@ -1,8 +1,8 @@
 # :star2: Awesome TypeScript :mortar_board:
 
-[![Typescript Version](https://img.shields.io/npm/v/typescript)](https://www.npmjs.com/package/typescript)
-[![Typescript Website](https://img.shields.io/badge/TypeScript-Website-green?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black)](https://www.typescriptlang.org/)
-[![Typescript Downloads](https://img.shields.io/npm/dm/typescript.svg)](https://www.npmjs.com/package/typescript)
+[![Typescript Version](https://img.shields.io/npm/v/typescript?color=green&labelColor=black)](https://www.npmjs.com/package/typescript)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.typescriptlang.org%2F&up_message=official&label=website&labelColor=black&up_color=red)](https://www.typescriptlang.org/)
+[![Typescript Downloads](https://img.shields.io/npm/dw/typescript.svg?color=FFD300&labelColor=black)](https://www.npmjs.com/package/typescript)
 
 
 ![Typescript Banner](/media/ts-banner.png)
@@ -34,24 +34,26 @@ Welcome to my personal Awesome TypeScript repository! I designed this resource t
 
 TypeScript is a free and open-source high-level programming language developed by Microsoft that adds static typing with optional type annotations to JavaScript. It is designed for the development of large applications and transpiles to JavaScript. Because TypeScript is a superset of JavaScript, all JavaScript programs are syntactically valid TypeScript, but they can fail to type-check for safety reasons.
 
-
-
 ## :hammer_and_wrench: Installation
 
-Para utilizar los ejemplos y proyectos de este repositorio, necesitarás tener Node.js y npm (Node Package Manager) instalados en tu máquina. Puedes descargarlos desde [Node.js](https://nodejs.org/).
+For the latest stable version:
 
-1. Clona este repositorio:
-    ```bash
-    git clone https://github.com/tu-usuario/learn-typescript.git
-    ```
-2. Navega al directorio del proyecto:
-    ```bash
-    cd learn-typescript
-    ```
-3. Instala las dependencias:
-    ```bash
-    npm install
-    ```
+```bash
+npm install -D typescript
+```
+
+For our nightly builds:
+
+```bash
+npm install -D typescript@next
+```
+
+For nightly builds:
+
+```bash
+typescript --version
+```
+
 ## Learning Resources
 
 ### Documentación Oficial
