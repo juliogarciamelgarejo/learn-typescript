@@ -8,7 +8,7 @@
 
 > Welcome to Awesome TypeScript! I created this resource to provide all the information I found to learn TypeScript from scratch in a structured way.
 
-## :books: Table of Contents
+## :bulb: Table of Contents
 
 - [Introduction](#introduction)
 - [Installation](#installation)
@@ -29,11 +29,12 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## :rocket: Introduction
 <a id="Introduction"></a>
+## :rocket: Introduction
 
 TypeScript is a free and open-source high-level programming language developed by Microsoft that adds static typing with optional type annotations to JavaScript. It is designed for the development of large applications and transpiles to JavaScript.
 
+<a id="Installation"></a>
 ## :package: Installation
 
 For the latest stable version:
@@ -54,6 +55,7 @@ To check the installation:
 typescript --version
 ```
 
+<a id="Learning-Resources"></a>
 ## :books: Learning Resources
 
 ### Documentación Oficial
