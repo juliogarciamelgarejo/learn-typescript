@@ -28,13 +28,9 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## :round_pushpin: Introduction
-
-### Repository goals
+## Introduction
 
 - Welcome to Awesome TypeScript! I created this resource to provide all the information I found to learn TypeScript from scratch in a structured way.
-
-### What is Typescript?
 
 - TypeScript is a free and open-source high-level programming language developed by Microsoft that adds static typing with optional type annotations to JavaScript. 
 
