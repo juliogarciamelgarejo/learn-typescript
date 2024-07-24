@@ -10,9 +10,9 @@
 
 ## :books: Table of Contents
 
-- [Introduction](#-introduction)
-- [Installation](#-installation)
-- [Learning Resources](#-learning-resources)
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Learning Resources](#learning-resources)
   - [Official Documentation](#official-documentation)
   - [Tutorials](#tutorials)
   - [Tools](#tools)
@@ -30,6 +30,7 @@
 - [License](#license)
 
 ## :rocket: Introduction
+<a id="Introduction"></a>
 
 TypeScript is a free and open-source high-level programming language developed by Microsoft that adds static typing with optional type annotations to JavaScript. It is designed for the development of large applications and transpiles to JavaScript.
 
