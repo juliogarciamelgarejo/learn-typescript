@@ -30,9 +30,13 @@
 
 ## :round_pushpin: Introduction
 
-Welcome to my personal Awesome TypeScript repository! I designed this resource to provide in a structured way all the information I found on my journey to learn TypeScript from scratch. I hope it helps you too.
+### Repository goals
 
-TypeScript is a free and open-source high-level programming language developed by Microsoft that adds static typing with optional type annotations to JavaScript. It is designed for the development of large applications and transpiles to JavaScript. Because TypeScript is a superset of JavaScript, all JavaScript programs are syntactically valid TypeScript, but they can fail to type-check for safety reasons.
+- Welcome to Awesome TypeScript! I created this resource to provide all the information I found to learn TypeScript from scratch in a structured way.
+
+### What is Typescript?
+
+- TypeScript is a free and open-source high-level programming language developed by Microsoft that adds static typing with optional type annotations to JavaScript. 
 
 ## :hammer_and_wrench: Installation
 
@@ -42,13 +46,13 @@ For the latest stable version:
 npm install -D typescript
 ```
 
-For our nightly builds:
+For nightly builds:
 
 ```bash
 npm install -D typescript@next
 ```
 
-For nightly builds:
+To check the installation:
 
 ```bash
 typescript --version
