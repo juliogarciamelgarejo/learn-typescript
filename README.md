@@ -4,11 +4,11 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.typescriptlang.org%2F&up_message=Official&label=Website&labelColor=black&up_color=red)](https://www.typescriptlang.org/)
 [![Typescript Downloads](https://img.shields.io/npm/dw/typescript.svg?color=FFD300&labelColor=black&label=Downloads)](https://www.npmjs.com/package/typescript)
 
-
 > Welcome to Awesome TypeScript! I created this resource to provide all the information I found to learn TypeScript from scratch in a structured way.
 
-## :books: Table of Contents
 ![Typescript Banner](/media/ts-banner.png)
+
+## :books: Table of Contents
 
 - [Introduction](#introduction)
 - [Installation](#installation)
