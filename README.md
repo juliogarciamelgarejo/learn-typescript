@@ -4,8 +4,9 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.typescriptlang.org%2F&up_message=Official&label=Website&labelColor=black&up_color=red)](https://www.typescriptlang.org/)
 [![Typescript Downloads](https://img.shields.io/npm/dw/typescript.svg?color=FFD300&labelColor=black&label=Downloads)](https://www.npmjs.com/package/typescript)
 
-
 ![Typescript Banner](/media/ts-banner.png)
+
+> Welcome to Awesome TypeScript! I created this resource to provide all the information I found to learn TypeScript from scratch in a structured way.
 
 ## :books: Table of Contents
 
@@ -28,13 +29,11 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-> Welcome to Awesome TypeScript! I created this resource to provide all the information I found to learn TypeScript from scratch in a structured way.
-
-## Introduction
+## :rocket: Introduction
 
 TypeScript is a free and open-source high-level programming language developed by Microsoft that adds static typing with optional type annotations to JavaScript. It is designed for the development of large applications and transpiles to JavaScript.
 
-## :hammer_and_wrench: Installation
+## :package: Installation
 
 For the latest stable version:
 
