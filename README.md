@@ -3,7 +3,7 @@
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
 
-![Typescript Logo](media/ts-icon.webp)
+![Typescript Logo](/media/ts-lettermark-blue.png)
 
 ## :books: Table of Contents
 
@@ -119,7 +119,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt)
 
 ---
 
-## Hola, mi nombre es Julio Cesar Garcia.
+## Hola, mi nombre es Julio Cesar Garcia
 
 ### Freelance full-stack iOS & Android engineer
 
