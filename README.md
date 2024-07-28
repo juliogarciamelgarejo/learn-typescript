@@ -119,13 +119,13 @@ tsc --version
 
 :heart_eyes: Want to help improve this repository? Here's how:
 
-1. **Fork this repo:** This creates a copy of the repo in your GitHub account.
-2. **Clone your fork:** This downloads your fork to your local machine.
+1. **Fork this repo:** Click the ```Fork``` button at the top right.
+2. **Clone your fork:**
 ```bash
 git clone https://github.com/your-username/awesome-typescript.git
 cd awesome-typescript/
 ```
-3. **Create a new branch:** This creates a new branch for your changes.
+3. **Create a new branch:**
 ```bash
 git checkout -b your-branch-name
 ```
@@ -135,7 +135,7 @@ git checkout -b your-branch-name
 git add README.md
 git commit -m "Describe your changes"
 ```
-6. **Push your changes:** This uploads your changes to GitHub.
+6. **Push your changes:**
 ```bash
 git push origin your-branch-name
 ```
