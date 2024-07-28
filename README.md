@@ -17,7 +17,7 @@
   - [:sparkles: Official Documentation](#official-documentation)
   - [Tutorials](#tutorials)
   - [:man_teacher: Courses](#courses)
-  - [Articles](#articles)
+  - [:memo: Articles](#articles)
   - [Books](#books)
   - [:hammer_and_wrench: Tools](#tools)
   - [Projects](#projects)
@@ -54,7 +54,7 @@ typescript --version
 ```
 
 <a id="Learning-Resources"></a>
-## :books: Learning Resources
+## :mortar_board: Learning Resources
 
 ### Documentación Oficial
 
@@ -104,12 +104,9 @@ typescript --version
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file for details.
 
-##
+> ¡Gracias por visitar Awesome TypeScript!
 
 #### En mi perfil de GitHub tienes más información. Puedes apoyar mi trabajo haciendo :star: en el repo. ¡Gracias!
 
 [![Github Profile](https://img.shields.io/badge/GitHub-My_Profile-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/juliogarciamelgarejo)
 [![GitHub Star](https://img.shields.io/badge/GitHub-Star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
-
-
-> ¡Gracias por visitar Awesome TypeScript!
