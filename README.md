@@ -60,11 +60,7 @@ tsc --version
 <a id="Official"></a>
 ### :star: Official
 
-- [Typescript - Website](https://www.typescriptlang.org/)
-- [Typescript Repository - GitHub](https://github.com/microsoft/typescript/)
-- [Typescript Documentation - Website](https://www.typescriptlang.org/docs/)
-- [Typescript Handbook v2.0 - Website](https://www.typescriptlang.org/docs/handbook/intro.html)
-- [Typescript DevBlogs - Website](https://devblogs.microsoft.com/typescript/)
+-
 
 <a id="Tutorials"></a>
 ### :fire: Tutorials
@@ -109,10 +105,7 @@ tsc --version
 <a id="Community"></a>
 ### :earth_americas: Community
 
-- [Typescript - X (Twitter)](https://x.com/typescript)
-- [Typescript Questions - Stack Overflow](https://stackoverflow.com/questions/tagged/typescript)
-- [Typescript - Mastodon](https://fosstodon.org/@TypeScript)
-- [Typescript Community - Discord](https://discord.com/invite/typescript)
+-
 
 <a id="Contributing"></a>
 ## :handshake: Contributing
