@@ -104,7 +104,9 @@ typescript --version
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file for details.
 
-### En mi perfil de GitHub tienes más información. Puedes apoyar mi trabajo haciendo :star: en el repo. ¡Gracias!
+##
+
+#### En mi perfil de GitHub tienes más información. Puedes apoyar mi trabajo haciendo :star: en el repo. ¡Gracias!
 
 [![Github Profile](https://img.shields.io/badge/GitHub-My_Profile-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/juliogarciamelgarejo)
 [![GitHub Star](https://img.shields.io/badge/GitHub-Star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
