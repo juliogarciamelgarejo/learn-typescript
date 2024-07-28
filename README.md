@@ -141,7 +141,7 @@ git commit -m "Describe your changes"
 ```bash
 git push origin your-branch-name
 ```
-7. **Create a Pull Request:** Go to the original repository, click ```Pull requests```, then ```New pull request```. Select your branch and describe your changes, then submit.
+7. **Create a Pull Request:** Go to the original repository, click ```Pull Requests```, then ```New Pull Request```. Select your branch and describe your changes, then submit.
 
 <a id="License"></a>
 ## :scroll: License
