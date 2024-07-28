@@ -117,7 +117,9 @@ tsc --version
 <a id="Contributing"></a>
 ## :handshake: Contributing
 
-:heart_eyes: Want to help improve this repository? Here's how:
+We appreciate all contributions, no matter how small. Thank you for helping us make this repository even better!
+
+Want to help improve this repository? Here's how:
 
 1. **Fork this repo:** Click the ```Fork``` button at the top right.
 2. **Clone your fork:**
@@ -129,7 +131,7 @@ cd awesome-typescript/
 ```bash
 git checkout -b your-branch-name
 ```
-4. **Edit the README.md:** Make your changes to the README.md file.
+4. **Edit the README.md:** Make your changes to the ```README.md``` file.
 5. **Commit your changes:**
 ```bash
 git add README.md
@@ -140,8 +142,6 @@ git commit -m "Describe your changes"
 git push origin your-branch-name
 ```
 7. **Create a Pull Request:** Go to the original repository, click ```Pull requests```, then ```New pull request```. Select your branch and describe your changes, then submit.
-
-We appreciate all contributions, no matter how small. Thank you for helping us make this repository even better!
 
 <a id="License"></a>
 ## :scroll: License
