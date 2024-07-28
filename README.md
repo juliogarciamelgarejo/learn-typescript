@@ -60,33 +60,32 @@ tsc --version
 <a id="Official"></a>
 ### :star: Official
 
-- [Typescript | Website](https://www.typescriptlang.org/)
-- [Typescript Documentation | Website](https://www.typescriptlang.org/docs/)
-- [Typescript Handbook | Website](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [Typescript - Website](https://www.typescriptlang.org/)
+- [Typescript Repository - GitHub](https://github.com/microsoft/typescript/)
+- [Typescript Documentation - Website](https://www.typescriptlang.org/docs/)
+- [Typescript - X (Twitter)](https://x.com/typescript)
+- [Typescript Handbook v2.0 - Website](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [Typescript DevBlogs - Website](https://devblogs.microsoft.com/typescript/)
 
 <a id="Tutorials"></a>
 ### :fire: Tutorials
 
-- [📄 Documentación oficial de TypeScript](https://www.typescriptlang.org/docs/)
-- [📘 TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+-
 
 <a id="Courses"></a>
 ### :mortar_board: Courses
 
-- [📄 Documentación oficial de TypeScript](https://www.typescriptlang.org/docs/)
-- [📘 TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+-
 
 <a id="Articles"></a>
 ### :memo: Articles
 
-- [📄 Documentación oficial de TypeScript](https://www.typescriptlang.org/docs/)
-- [📘 TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+-
 
 <a id="Books"></a>
 ### :books: Books
 
-- [📄 Documentación oficial de TypeScript](https://www.typescriptlang.org/docs/)
-- [📘 TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+-
 
 <a id="Tools"></a>
 ### :dart: Tools
