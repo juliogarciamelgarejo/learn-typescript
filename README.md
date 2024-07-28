@@ -13,10 +13,10 @@
 
 - [:rocket: Introduction](#introduction)
 - [:package: Installation](#installation)
-- [:mortar_board: Resources](#resources)
+- [:link: Resources](#resources)
   - [:dart: Official](#official)
   - [:fire: Tutorials](#tutorials)
-  - [:: Courses](#courses)
+  - [:mortar_board: Courses](#courses)
   - [:memo: Articles](#articles)
   - [:books: Books](#books)
   - [:hammer_and_wrench: Tools](#tools)
@@ -26,6 +26,7 @@
 - [:earth_americas: Community](#community)
 - [:handshake: Contributing](#contributing)
 - [:scroll: License](#license)
+- [:star: ]()
 
 <a id="Introduction"></a>
 ## :rocket: Introduction
@@ -53,8 +54,8 @@ To check the installation:
 typescript --version
 ```
 
-<a id="Learning-Resources"></a>
-## :mortar_board: Learning Resources
+<a id="Resources"></a>
+## :mortar_board: Resources
 
 ### Documentación Oficial
 
@@ -91,13 +92,13 @@ typescript --version
 <a id="Contributing"></a>
 ## :handshake: Contributing
 
-¡Las contribuciones son bienvenidas! Si tienes alguna idea o mejora, por favor abre un issue o crea un pull request.
+Contributions are welcome! If you have any ideas or improvements, please open an issue or create a pull request.
 
-1. Haz un fork de este repositorio.
-2. Crea una nueva rama (`git checkout -b feature-nueva-funcionalidad`).
-3. Realiza los cambios y haz commit (`git commit -m 'Añadir nueva funcionalidad'`).
-4. Sube tus cambios (`git push origin feature-nueva-funcionalidad`).
-5. Abre un pull request.
+1. Fork this repository.
+2. Create a new branch (`git checkout -b feature-new-feature`).
+3. Make your changes and commit them (`git commit -m 'Add new feature'`).
+4. Push your changes (`git push origin feature-new-feature`).
+5. Open a pull request.
 
 <a id="License"></a>
 ## :scroll: License
