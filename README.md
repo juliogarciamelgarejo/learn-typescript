@@ -111,6 +111,9 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt)
 En mi perfil de GitHub tienes más información. Puedes apoyar mi trabajo haciendo :star: en el repo. ¡Gracias!
 
 [![GitHub Profile](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Ftypescript%2F&up_message=Profile&up_color=14a1f6&labelColor=black&label=GitHub)](https://github.com/microsoft/typescript/)
+
+If you find this repository useful, please consider giving it a :star:!
+
 [![GitHub Star](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Ftypescript%2F&up_message=Star&up_color=yellow&labelColor=black&label=GitHub)](https://github.com/microsoft/typescript/)
 
 ***¡Thanks for visiting Awesome TypeScript!***
