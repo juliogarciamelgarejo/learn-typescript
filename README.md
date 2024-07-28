@@ -120,17 +120,23 @@ tsc --version
 :heart_eyes: Want to help improve this repository? Here's how:
 
 1. **Fork this repo:** Click the ```Fork``` button at the top right.
-
 2. **Clone your fork:**
 ```bash
 git clone https://github.com/your-username/awesome-typescript.git
 cd awesome-typescript/
 ```
-3.
-4.
+3. **Commit your changes:**
+```bash
+git add README.md
+git commit -m "Describe your changes"
+```
+4. **Push your changes:**
+```bash
+git push origin your-branch-name
+```
 5. **Create a Pull Request:** Go to the original repository, click ```Pull requests```, then ```New pull request```. Select your branch and describe your changes, then submit.
 
-:raised_hands: We appreciate all contributions, no matter how small. Thank you for helping us make this repository even better!
+We appreciate all contributions, no matter how small. Thank you for helping us make this repository even better!
 
 <a id="License"></a>
 ## :scroll: License
