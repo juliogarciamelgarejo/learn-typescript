@@ -144,7 +144,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt)
 <a id="About"></a>
 ## :sparkling_heart: About
 
-In my GitHub profile you can find more information about me and other "Awesome" repositories.
+In my GitHub profile you can find more information about me and other "Awesome repositories".
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-PROFILE-14a1f6?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/juliogarciamelgarejo)
 
@@ -152,4 +152,4 @@ If you find this repository useful, please consider giving it a :star:.
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://stars.github.com/nominate/)
 
-***¡Thanks for visiting Awesome TypeScript!*** :stuck_out_tongue_closed_eyes:
+**¡Thanks for visiting!** :stuck_out_tongue_closed_eyes:
