@@ -51,7 +51,7 @@ npm install -D typescript@next
 To check the installation:
 
 ```bash
-typescript --version
+tsc --version
 ```
 
 <a id="Resources"></a>
@@ -60,8 +60,9 @@ typescript --version
 <a id="Official"></a>
 ### :star: Official
 
-- [📄 Documentación oficial de TypeScript](https://www.typescriptlang.org/docs/)
-- [📘 TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [Typescript (Website)](https://www.typescriptlang.org/)
+- [Typescript Documentation (Website)](https://www.typescriptlang.org/docs/)
+- [Typescript Handbook (Website)](https://www.typescriptlang.org/docs/handbook/intro.html)
 
 <a id="Tutorials"></a>
 ### :fire: Tutorials
@@ -118,6 +119,11 @@ typescript --version
 - [🛠 TypeScript Playground](https://www.typescriptlang.org/play)
 - [💻 RealWorld Example App - TypeScript](https://github.com/gothinkster/react-redux-realworld-example-app)
 
+<a id="Community"></a>
+## :earth_americas: Community
+
+- 
+
 <a id="Contributing"></a>
 ## :handshake: Contributing
 
@@ -145,4 +151,4 @@ If you find this repository useful, please consider giving it a :star:!
 
 [![GitHub Star](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Ftypescript%2F&up_message=Star&up_color=yellow&labelColor=black&label=GitHub)](https://github.com/microsoft/typescript/)
 
-***<center>¡Thanks for visiting Awesome TypeScript!</center>***
+***¡Thanks for visiting Awesome TypeScript!***
