@@ -38,21 +38,21 @@ TypeScript is a free and open-source high-level programming language developed b
 
 For the latest stable version:
 
-```bash
-npm install -D typescript
-```
+  ```bash
+  npm install -D typescript
+  ```
 
 For nightly builds:
 
-```bash
-npm install -D typescript@next
-```
+  ```bash
+  npm install -D typescript@next
+  ```
 
 To check the installation:
 
-```bash
-tsc --version
-```
+  ```bash
+  tsc --version
+  ```
 
 <a id="Resources"></a>
 ## :link: Resources
@@ -116,24 +116,24 @@ Want to help improve this repository? Here's how:
 
 1. **Fork this repo:** Click the ```Fork``` button at the top right.
 2. **Clone your fork:**
-```bash
-git clone https://github.com/your-username/awesome-typescript.git
-cd awesome-typescript/
-```
+  ```bash
+  git clone https://github.com/your-username/awesome-typescript.git
+  cd awesome-typescript/
+  ```
 3. **Create a new branch:**
-```bash
-git switch -c your-branch-name
-```
+  ```bash
+  git switch -c your-branch-name
+  ```
 4. **Edit the README.md:** Make your changes to the ```README.md``` file.
 5. **Commit your changes:**
-```bash
-git add README.md
-git commit -m "Describe your changes"
-```
+  ```bash
+  git add README.md
+  git commit -m "Describe your changes"
+  ```
 6. **Push your changes:**
-```bash
-git push origin your-branch-name
-```
+  ```bash
+  git push origin your-branch-name
+  ```
 7. **Create a Pull Request:** Go to the original repository, click ```Pull Requests```, then ```New Pull Request```. Select your branch and describe your changes, then submit.
 
 <a id="License"></a>
@@ -144,7 +144,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt)
 <a id="About"></a>
 ## :sparkling_heart: About
 
-En mi perfil de GitHub tienes más información.
+In my GitHub profile you can find more information about me and other "Awesome" repositories.
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-PROFILE-14a1f6?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/juliogarciamelgarejo)
 
@@ -152,4 +152,4 @@ If you find this repository useful, please consider giving it a :star:.
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://stars.github.com/nominate/)
 
-***¡Thanks for visiting Awesome TypeScript! :stuck_out_tongue_closed_eyes:***
+***¡Thanks for visiting Awesome TypeScript!*** :stuck_out_tongue_closed_eyes:
