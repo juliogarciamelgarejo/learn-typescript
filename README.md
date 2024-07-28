@@ -11,8 +11,8 @@
 
 ## :books: Table of Contents
 
-- [Introduction](#introduction)
-- [Installation](#installation)
+- [:rocket: Introduction](#introduction)
+- [:package: Installation](#installation)
 - [Learning Resources](#learning-resources)
   - [Official Documentation](#official-documentation)
   - [Tutorials](#tutorials)
@@ -22,10 +22,10 @@
   - [Tools](#tools)
   - [Projects](#projects)
   - [Discovery](#discovery)
-  - [Miscellaneous](#miscellaneous)
+  - [:performing_arts: Miscellaneous](#miscellaneous)
 - [:earth_americas: Community](#community)
-- [Contributing](#contributing)
-- [License](#license)
+- [:handshake: Contributing](#contributing)
+- [:scroll: License](#license)
 
 <a id="Introduction"></a>
 ## :rocket: Introduction
@@ -89,7 +89,7 @@ typescript --version
 - [💻 RealWorld Example App - TypeScript](https://github.com/gothinkster/react-redux-realworld-example-app)
 
 <a id="Contributing"></a>
-## 🤝 Contribuir
+## :handshake: Contributing
 
 ¡Las contribuciones son bienvenidas! Si tienes alguna idea o mejora, por favor abre un issue o crea un pull request.
 
