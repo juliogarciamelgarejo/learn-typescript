@@ -122,7 +122,7 @@ cd awesome-typescript/
 ```
 3. **Create a new branch:**
 ```bash
-git checkout -b your-branch-name
+git switch -c your-branch-name
 ```
 4. **Edit the README.md:** Make your changes to the ```README.md``` file.
 5. **Commit your changes:**
@@ -144,12 +144,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt)
 <a id="About"></a>
 ## :sparkling_heart: About
 
-En mi perfil de GitHub tienes más información. Puedes apoyar mi trabajo haciendo :star: en el repo. ¡Gracias!
+En mi perfil de GitHub tienes más información.
 
-[![GitHub Profile](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Ftypescript%2F&up_message=Profile&up_color=14a1f6&labelColor=black&label=GitHub)](https://github.com/microsoft/typescript/)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-PROFILE-14a1f6?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/juliogarciamelgarejo)
 
-If you find this repository useful, please consider giving it a :star:!
+If you find this repository useful, please consider giving it a :star:.
 
-[![GitHub Star](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Ftypescript%2F&up_message=Star&up_color=yellow&labelColor=black&label=GitHub)](https://github.com/microsoft/typescript/)
+[![GitHub Star](https://img.shields.io/badge/GitHub-Star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://stars.github.com/nominate/)
 
-***¡Thanks for visiting Awesome TypeScript!***
+***¡Thanks for visiting Awesome TypeScript! :stuck_out_tongue_closed_eyes:***
