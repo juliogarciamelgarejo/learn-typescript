@@ -9,23 +9,21 @@
 
 > Welcome to Awesome TypeScript! I created this resource to provide all the information I found to learn TypeScript from scratch in a structured way.
 
-## :bulb: Table of Contents
+## :books: Table of Contents
 
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Learning Resources](#learning-resources)
   - [Official Documentation](#official-documentation)
   - [Tutorials](#tutorials)
-  - [Tools](#tools)
-  - [E-Books](#books)
-  - [Articles](#articles)
   - [Courses](#courses)
+  - [Articles](#articles)
+  - [Books](#books)
+  - [Tools](#tools)
   - [Projects](#projects)
-  - [Discovery]()
-  - [Newsletters]()
-  - [Cheatsheets]()
-  - [Miscellaneous]()
-  - [Community]()
+  - [Discovery](#discovery)
+  - [Miscellaneous](#miscellaneous)
+- [:earth_americas: Community](#community)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -110,17 +108,6 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt)
 
 ## Hola, mi nombre es Julio Cesar Garcia
 
-### Freelance full-stack iOS & Android engineer
-
-[![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev)
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
-
 Soy ingeniero de software desde 2010. Desde 2018 combino mi trabajo desarrollando Apps con la creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
 
 ### En mi perfil de GitHub tienes más información
@@ -129,11 +116,6 @@ Soy ingeniero de software desde 2010. Desde 2018 combino mi trabajo desarrolland
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. ¡Gracias!
 
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/typescript)
-
-[![GitHub stars](https://img.shields.io/github/stars/microsoft/typescript?style=social)](https://github.com/microsoft/typescript/stargazers)
-
+[![GitHub Star](https://img.shields.io/badge/GitHub-Star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
 > ¡Gracias por visitar Awesome TypeScript!
