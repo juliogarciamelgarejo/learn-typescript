@@ -14,19 +14,19 @@
 - [:rocket: Introduction](#introduction)
 - [:package: Installation](#installation)
 - [:link: Resources](#resources)
-  - [:dart: Official](#official)
+  - [:star: Official](#official)
   - [:fire: Tutorials](#tutorials)
   - [:mortar_board: Courses](#courses)
   - [:memo: Articles](#articles)
   - [:books: Books](#books)
-  - [:hammer_and_wrench: Tools](#tools)
+  - [:dart: Tools](#tools)
   - [:bulb: Projects](#projects)
   - [:mag_right: Discovery](#discovery)
   - [:performing_arts: Miscellaneous](#miscellaneous)
 - [:earth_americas: Community](#community)
 - [:handshake: Contributing](#contributing)
 - [:scroll: License](#license)
-- [:star: ]()
+- [:sparkling_heart: About](#about)
 
 <a id="Introduction"></a>
 ## :rocket: Introduction
@@ -105,11 +105,12 @@ Contributions are welcome! If you have any ideas or improvements, please open an
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file for details.
 
-## :star: G
-
-¡Gracias por visitar Awesome TypeScript!
+<a id="About"></a>
+## :sparkling_heart: About
 
 En mi perfil de GitHub tienes más información. Puedes apoyar mi trabajo haciendo :star: en el repo. ¡Gracias!
 
 [![Github Profile](https://img.shields.io/badge/GitHub-Profile-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/juliogarciamelgarejo)
 [![GitHub Star](https://img.shields.io/badge/GitHub-Star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+
+***¡Gracias por visitar Awesome TypeScript!***
