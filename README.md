@@ -1,4 +1,4 @@
-# :star2: Awesome TypeScript :mortar_board:
+# :star2: Awesome TypeScript :rocket:
 
 [![Typescript Version](https://img.shields.io/npm/v/typescript?color=green&labelColor=black&label=Version)](https://www.npmjs.com/package/typescript)
 [![Typescript Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.typescriptlang.org%2F&up_message=Official&label=Website&labelColor=black&up_color=red)](https://www.typescriptlang.org/)
@@ -13,7 +13,7 @@
 
 - [:rocket: Introduction](#introduction)
 - [:package: Installation](#installation)
-- [Learning Resources](#learning-resources)
+- [:mortar_board: Learning Resources](#learning-resources)
   - [Official Documentation](#official-documentation)
   - [Tutorials](#tutorials)
   - [Courses](#courses)
