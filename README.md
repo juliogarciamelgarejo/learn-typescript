@@ -104,18 +104,10 @@ typescript --version
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file for details.
 
----
+### En mi perfil de GitHub tienes más información. Puedes apoyar mi trabajo haciendo :star: en el repo. ¡Gracias!
 
-## Hola, mi nombre es Julio Cesar Garcia
-
-Soy ingeniero de software desde 2010. Desde 2018 combino mi trabajo desarrollando Apps con la creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
-
-### En mi perfil de GitHub tienes más información
-
-[![Github Profile](https://img.shields.io/badge/GitHub-juliogarciamelgarejo-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/juliogarciamelgarejo)
-
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. ¡Gracias!
-
+[![Github Profile](https://img.shields.io/badge/GitHub-My_Profile-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/juliogarciamelgarejo)
 [![GitHub Star](https://img.shields.io/badge/GitHub-Star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+
 
 > ¡Gracias por visitar Awesome TypeScript!
