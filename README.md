@@ -99,20 +99,7 @@ tsc --version
 <a id="Discovery"></a>
 ### :mag_right: Discovery
 
-- [🎥 Curso de TypeScript en YouTube - Academind](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o)
-- [📖 Guía de TypeScript en MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/TypeScript)
-- [🎥 TypeScript Tutorial for Beginners - Programming with Mosh](https://www.youtube.com/watch?v=BCg4U1FzODs)
-- [🎥 TypeScript Crash Course - Traversy Media](https://www.youtube.com/watch?v=rAy_3SIqT-E)
-- [📚 Pro TypeScript: Application-Scale JavaScript Development](https://www.apress.com/gp/book/9781484249780)
-- [📖 Learning TypeScript 2.x: Develop and maintain captivating web applications with ease](https://www.packtpub.com/product/learning-typescript-2-x/9781788391477)
-- [📘 TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
-- [📝 Understanding TypeScript: A Handbook for JS Developers](https://www.amazon.com/Understanding-TypeScript-Guide-Developers-ebook/dp/B07ZY6M3ZT)
-- [💻 TypeScript en Codecademy](https://www.codecademy.com/learn/learn-typescript)
-- [🎓 TypeScript en Pluralsight](https://www.pluralsight.com/courses/typescript)
-- [📚 TypeScript en Udemy](https://www.udemy.com/course/understanding-typescript/)
-- [🖥️ Learn TypeScript with Interactive Examples - scrimba](https://scrimba.com/learn/typescript)
-- [🚀 TypeScript Examples on GitHub](https://github.com/microsoft/TypeScriptSamples)
-- [🛠 TypeScript Playground](https://www.typescriptlang.org/play)
+-
 
 <a id="Miscellaneous"></a>
 ### :performing_arts: Miscellaneous
@@ -130,13 +117,20 @@ tsc --version
 <a id="Contributing"></a>
 ## :handshake: Contributing
 
-Contributions are welcome! If you have any ideas or improvements, please open an issue or create a pull request.
+:heart_eyes: Want to help improve this repository? Here's how:
 
-1. Fork this repository.
-2. Create a new branch (`git checkout -b feature-new-feature`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push your changes (`git push origin feature-new-feature`).
-5. Open a pull request.
+1. **Fork this repo:** Click the ```Fork``` button at the top right.
+
+2. **Clone your fork:**
+```bash
+git clone https://github.com/your-username/awesome-typescript.git
+cd awesome-typescript/
+```
+3.
+4.
+5. **Create a Pull Request:** Go to the original repository, click ```Pull requests```, then ```New pull request```. Select your branch and describe your changes, then submit.
+
+:raised_hands: We appreciate all contributions, no matter how small. Thank you for helping us make this repository even better!
 
 <a id="License"></a>
 ## :scroll: License
