@@ -23,7 +23,7 @@
   - [:bulb: Projects](#projects)
   - [:mag_right: Discovery](#discovery)
   - [:performing_arts: Miscellaneous](#miscellaneous)
-- [:earth_americas: Community](#community)
+  - [:earth_americas: Community](#community)
 - [:handshake: Contributing](#contributing)
 - [:scroll: License](#license)
 - [:sparkling_heart: About](#about)
@@ -120,10 +120,10 @@ tsc --version
 - [💻 RealWorld Example App - TypeScript](https://github.com/gothinkster/react-redux-realworld-example-app)
 
 <a id="Community"></a>
-## :earth_americas: Community
+### :earth_americas: Community
 
 - [StackOverflow](https://stackoverflow.com/questions/tagged/typescript)
-- [Discord](https://discord.com/invite/typescript)
+- [Typescript Community | Discord](https://discord.com/invite/typescript)
 
 <a id="Contributing"></a>
 ## :handshake: Contributing
