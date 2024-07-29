@@ -7,7 +7,7 @@
 
 ![Typescript Banner](/media/ts-banner.png)
 
-> Welcome to Awesome TypeScript! I created this resource to provide all the information I found to learn TypeScript from scratch in a structured way.
+Welcome to Awesome TypeScript! I created this resource to provide all the information I found to learn TypeScript from scratch in a structured way.
 
 ## :writing_hand: Table of Contents
 
