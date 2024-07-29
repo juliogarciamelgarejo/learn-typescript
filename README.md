@@ -144,13 +144,13 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt)
 <a id="About"></a>
 ## :sparkling_heart: About
 
-Hi! I'm [@juliogarciamelgarejo](https://github.com/juliogarciamelgarejo/README.txt), a developer who loves creating innovative solutions and contributing to open-source projects.
+Hi! I'm [@juliogarciamelgarejo](https://github.com/juliogarciamelgarejo/README.txt), 
 
-:octocat: You can find my projects and contributions on my GitHub profile:
+:octocat: You can find my projects and contributions on my GitHub profile.
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-VISIT_PROFILE-14a1f6?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/juliogarciamelgarejo)
 
-If you find this repository useful, please consider giving it a "Star".
+:octocat: If you find this repository useful, please consider giving it a "Star".
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Give_a_Star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/juliogarciamelgarejo/learn-typescript/stargazers)
 
