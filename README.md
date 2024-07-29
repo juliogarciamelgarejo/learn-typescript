@@ -150,6 +150,6 @@ In my GitHub profile you can find more information about me and other "Awesome r
 
 If you find this repository useful, please consider giving it a :star:.
 
-[![GitHub Star](https://img.shields.io/badge/GitHub-Star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://stars.github.com/nominate/)
+[![GitHub Star](https://img.shields.io/badge/GitHub-Star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/juliogarciamelgarejo/learn-typescript/stargazers)
 
 **¡Thanks for visiting!** :stuck_out_tongue_closed_eyes:
