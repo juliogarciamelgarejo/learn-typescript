@@ -7,7 +7,7 @@
 
 ![Typescript Banner](/media/ts-banner.png)
 
-***Welcome to Awesome TypeScript! I created this repo to share everything I’ve gathered for learning TypeScript from scratch in a clear and structured way.***
+**Welcome to Awesome TypeScript! I created this repo to share everything I’ve gathered for learning TypeScript from scratch in a clear and structured way.**
 
 ## :writing_hand: Table of Contents
 
